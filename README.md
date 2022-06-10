@@ -1,4 +1,4 @@
-#### attendance-records
+#### attendance-records | Auto fill google tables
 Google script (JavaScript) to modify google table docs
 
 > This script is designed to account for the attendance of some persons.
